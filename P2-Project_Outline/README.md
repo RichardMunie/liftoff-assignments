@@ -17,9 +17,7 @@ I will be working with personal trainer Jeremy Genin, developing a web app that 
 - C# dotnet using MVC for controling navigation and business processes
 - SqlDataSource for managing user data
 - YouTube Data API
-- Facebook APIs and SDKs
 ### What I'll Have to Learn
-- I will have to learn how to use the APIs for the various social media that I will interact with
-- a) The YouTube API for managing video content
-- b) API for accessing and posting to facebook
-- c) SDKs for allowing users to login with facebook accounts
+ I will have to learn how to use the APIs for the various social media that I will interact with
+- The YouTube API for managing video content
+
