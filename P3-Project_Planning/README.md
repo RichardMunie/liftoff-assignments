@@ -8,7 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+1. [GitHub](https://github.com/RichardMunie/liftoff-assignments/edit/master/P3-Project_Planning/1-Landing Page.jpg)
+1. [GitHub](https://github.com/RichardMunie/liftoff-assignments/edit/master/P3-Project_Planning/2-login.signup.jpg)
+1. [GitHub](https://github.com/RichardMunie/liftoff-assignments/edit/master/P3-Project_Planning/3-signup.welcome.jpg)
+1. [GitHub](https://github.com/RichardMunie/liftoff-assignments/edit/master/P3-Project_Planning/4-biometric input.jpg)
+1. [GitHub](https://github.com/RichardMunie/liftoff-assignments/edit/master/P3-Project_Planning/5-navigation.jpg)
+1. [GitHub](https://github.com/RichardMunie/liftoff-assignments/edit/master/P3-Project_Planning/6-Video page.jpg)
 
 ### Project Tracker
 
