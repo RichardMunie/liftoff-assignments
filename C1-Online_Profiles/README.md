@@ -7,10 +7,9 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
-
+[This is my github link](https://github.com/RichardMunie?tab=repositories)
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[Linkedin Profile for Richard Munie](https://www.linkedin.com/in/richard-munie-b8197a53/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
